@@ -1,0 +1,9 @@
+<!-- No need to fill out GOOGLE_ID and GOOGLE_SECRET -->
+GOOGLE_ID = ""
+GOOGLE_SECRET = ""
+
+NEXTAUTH_URL=http://localhost:3000
+SECRET=your-secret-key
+
+NEXT_PUBLIC_FASTAPI=http://localhost:8000/api
+FASTAPI=http://localhost:8000/api

@@ -1,0 +1,11 @@
+# No need to fill out GOOGLE_ID and GOOGLE_SECRET 
+GOOGLE_ID = ""
+GOOGLE_SECRET = ""
+
+NEXTAUTH_URL=http://localhost:3000
+SECRET=your-secret-key
+
+NEXT_PUBLIC_FASTAPI=http://localhost:8000/api
+FASTAPI=http://localhost:8000/api
+
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY = "pk_test_51Qykb9Pp13vxAOiLeI0hxBwDXtQVpT0RnAoASToHpNMjYtqzMYcWA6VlDl8YFCM3KTYZcw2CSkM5smyfD3uVCz3m00BOUMgIxq"
