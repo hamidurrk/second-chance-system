@@ -5,7 +5,7 @@ Second Chance is an end-to-end second-hand/thrift store management and sales sys
 
 **_Each directory has detailed documentation available within its respective folder, providing more in-depth information about its setup, usage, and development guidelines._**
 
-## Repositories
+## Directories
 
 ## 1. Admin Frontend
 The admin-frontend directory contains the code for the admin interface of the Second Chance system. It is used by store administrators to manage the stores and their administrators. Key features include:
