@@ -1,6 +1,6 @@
 # Second Chance System
 
-Second Chance is an end-to-end second-hand store management and sales system. It is designed to streamline the process of managing and selling second-hand items, providing a seamless experience for both store administrators and customers. The system is divided into four main repositories, each serving a specific role in the overall architecture.
+Second Chance is an end-to-end second-hand/thrift store management and sales system. It is designed to streamline the process of managing and selling second-hand items, providing a seamless experience for both store administrators and customers. The system is divided into four main repositories, each serving a specific role in the overall architecture.
 
 
 **_Each directory has detailed documentation available within its respective folder, providing more in-depth information about its setup, usage, and development guidelines._**
